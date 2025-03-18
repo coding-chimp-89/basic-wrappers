@@ -5,3 +5,6 @@ latta = Latta('6057d68e93993a5a91b44ba43972aba36fb35400b51c91d7e67c3cad4ee11b18a
 @latta.wrap
 def divide(x, y):
     return x / y
+
+if __name__ == "__main__":
+    print(divide(10, 5))
