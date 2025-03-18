@@ -1,0 +1,2 @@
+latta-python-recorder
+python-dotenv
